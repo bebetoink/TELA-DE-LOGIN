@@ -28,11 +28,15 @@ body{
 }
 
 .left-login > h1{
- color: rgb(99, 190, 160);
+    font-size: 3vw;
+    color: rgb(99, 190, 160);
+    
  
 }
 
-
+.virtual-image{
+    width: 35vw;
+}
 
 .right-login{
     width: 50vw;
